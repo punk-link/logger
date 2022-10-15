@@ -9,6 +9,7 @@ import (
 type Logger struct{}
 
 func init() {
+	// tmp
 	zerolog.ErrorStackMarshaler = pkgerrors.MarshalStack
 }
 
