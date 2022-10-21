@@ -42,7 +42,7 @@ func init() {
 	log.Logger = log.With().Stack().Caller().Logger()
 }
 
-func (logger *LoggerService) New() *LoggerService {
+func New() Logger {
 	return &LoggerService{}
 }
 
