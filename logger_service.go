@@ -68,7 +68,7 @@ func (logger *LoggerService) Printf(format string, values ...interface{}) {
 
 func getLogLevel() string {
 	environmentManager := envManager.New()
-	isExist, level := environmentManager.TryGet("LOG_LEVEL")
+	level, isExist := environmentManager.TryGet("LOG_LEVEL")
 	if !isExist {
 		return "Error"
 	}

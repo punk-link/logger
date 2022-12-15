@@ -14,6 +14,8 @@ github.com/punk-link/environment-variable-manager v1.0.0 h1:jtG05EbeTXJgGJpjB2kz
 github.com/punk-link/environment-variable-manager v1.0.0/go.mod h1:PfA0QpU1F5IfCUcp00S84PQ1I1BbES58P/rLabx8d4M=
 github.com/punk-link/environment-variable-manager v1.0.1 h1:6AeSOHoGEuoLjIO7W3IjnZvYyiRfZZicUV4vgt7T6v4=
 github.com/punk-link/environment-variable-manager v1.0.1/go.mod h1:PfA0QpU1F5IfCUcp00S84PQ1I1BbES58P/rLabx8d4M=
+github.com/punk-link/environment-variable-manager v1.0.2 h1:UX/4axoZTSCai7R4P3oMcjsCTfgwA0NhzH6gi9toymc=
+github.com/punk-link/environment-variable-manager v1.0.2/go.mod h1:PfA0QpU1F5IfCUcp00S84PQ1I1BbES58P/rLabx8d4M=
 github.com/rs/xid v1.4.0/go.mod h1:trrq9SKmegXys3aeAKXMUTdJsYXVwGY3RLcfgqegfbg=
 github.com/rs/zerolog v1.28.0 h1:MirSo27VyNi7RJYP3078AA1+Cyzd2GB66qy3aUHvsWY=
 github.com/rs/zerolog v1.28.0/go.mod h1:NILgTygv/Uej1ra5XxGf82ZFSLk58MFGAUS2o6usyD0=
